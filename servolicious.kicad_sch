@@ -1590,10 +1590,6 @@
 		(at 160.02 46.99)
 		(uuid "178e4755-3446-4180-8bfa-9be9a7064bd6")
 	)
-	(no_connect
-		(at 123.19 107.95)
-		(uuid "d2e24cbb-b723-4327-8782-5256f083ac9d")
-	)
 	(wire
 		(pts
 			(xy 96.52 46.99) (xy 96.52 45.72)
@@ -1753,6 +1749,16 @@
 			(type default)
 		)
 		(uuid "4b50fe4a-56b6-4513-84a1-6b39e3dab4c8")
+	)
+	(wire
+		(pts
+			(xy 127 46.99) (xy 127 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ff9ca28-fd01-40e4-ae58-735bb7718103")
 	)
 	(wire
 		(pts
@@ -1986,6 +1992,16 @@
 	)
 	(wire
 		(pts
+			(xy 127 45.72) (xy 124.46 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7d78542-b2d8-4a46-95e6-96ee408ff1ba")
+	)
+	(wire
+		(pts
 			(xy 59.69 66.04) (xy 66.04 66.04)
 		)
 		(stroke
@@ -2003,6 +2019,16 @@
 			(type default)
 		)
 		(uuid "feb0f47b-892b-4fbb-b116-1b7256f679d4")
+	)
+	(label "CHAIN"
+		(at 124.46 38.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "015631cb-e005-46bb-b042-cfe950cd7941")
 	)
 	(label "Servo6"
 		(at 59.69 124.46 0)
@@ -2063,6 +2089,16 @@
 			(justify left bottom)
 		)
 		(uuid "3be7bbf8-c09d-4427-a793-134618abb5d5")
+	)
+	(label "CHAIN"
+		(at 123.19 107.95 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4607d092-2de6-4c3b-83de-2494b6b65e2c")
 	)
 	(label "Servo2"
 		(at 59.69 68.58 0)
@@ -2174,6 +2210,16 @@
 		)
 		(uuid "ad11a85c-46eb-4a9b-a051-42a99bbff5a4")
 	)
+	(label "CLK"
+		(at 124.46 40.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b1c1ba67-2354-4f8d-98b0-422fcce1ca53")
+	)
 	(label "OUT"
 		(at 102.87 97.79 180)
 		(effects
@@ -2213,6 +2259,16 @@
 			(justify left bottom)
 		)
 		(uuid "d5982504-cfe4-4018-963b-96917e4b9701")
+	)
+	(label "OUT"
+		(at 124.46 43.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e329d1dd-40b5-48bf-a2e5-fb7028dabe7a")
 	)
 	(label "Servo7"
 		(at 123.19 100.33 0)
@@ -3165,6 +3221,73 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
+		(at 127 46.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "491cbf5d-fb79-4776-924f-919fb79d9ca1")
+		(property "Reference" "#PWR030"
+			(at 127 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "Earth"
+			(at 127 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 127 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 127 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"Earth\""
+			(at 127 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a33ca2ef-84ab-4b08-bcdb-7d017dc3ed03")
+		)
+		(instances
+			(project "servolicious"
+				(path "/c3a088af-77fe-4a0a-8cb5-e069078caf1a"
+					(reference "#PWR030")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:Earth")
 		(at 173.99 60.96 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3979,6 +4102,79 @@
 			(project ""
 				(path "/c3a088af-77fe-4a0a-8cb5-e069078caf1a"
 					(reference "J9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x04_Pin")
+		(at 119.38 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8ca1d431-b607-4d4e-8b55-d590eb2316d8")
+		(property "Reference" "J11"
+			(at 119.38 31.496 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x04_Pin"
+			(at 119.38 34.036 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+			(at 119.38 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 119.38 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 119.38 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "257c98de-f113-4a36-aab2-666418953323")
+		)
+		(pin "4"
+			(uuid "5adfc997-53d9-450b-bbdd-68d9ca4fcca5")
+		)
+		(pin "3"
+			(uuid "53fecb5e-7f92-45b7-b717-df9ff76c06ab")
+		)
+		(pin "1"
+			(uuid "197ff4a1-e708-4fff-8ef5-f4a1f3b02929")
+		)
+		(instances
+			(project "servolicious"
+				(path "/c3a088af-77fe-4a0a-8cb5-e069078caf1a"
+					(reference "J11")
 					(unit 1)
 				)
 			)

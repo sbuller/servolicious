@@ -3,5 +3,5 @@
 C2,0603,1,C_Small,
 "J1, J2, J3, J4, J5, J6, J7, J8",PinHeader_1x03_P2.54mm_Vertical,8,Conn_01x03_Pin,
 J10,BarrelJack_Horizontal,1,Barrel_Jack_MountingPin,
-J9,PinHeader_1x04_P2.54mm_Vertical,1,Conn_01x04_Pin,
+"J11, J9",PinHeader_1x04_P2.54mm_Vertical,2,Conn_01x04_Pin,
 U1,SOIC-16W_5.3x10.2mm_P1.27mm,1,74AHC595,
