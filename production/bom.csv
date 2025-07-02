@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C3",C_Radial_D8.0mm_H11.5mm_P3.50mm,2,C_Small_US,
+C2,0603,1,C_Small,
+"J1, J2, J3, J4, J5, J6, J7, J8, J9",PinHeader_1x03_P2.54mm_Vertical,9,Conn_01x03_Pin,
+J10,BarrelJack_Horizontal,1,Barrel_Jack_MountingPin,
+U2,SOIC-14_3.9x8.7mm_P1.27mm,1,74HC164,
