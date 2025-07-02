@@ -1329,7 +1329,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 105.41) (xy 66.04 104.14)
+			(xy 66.04 107.95) (xy 66.04 106.68)
 		)
 		(stroke
 			(width 0)
@@ -1349,7 +1349,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 91.44) (xy 66.04 90.17)
+			(xy 66.04 93.98) (xy 66.04 92.71)
 		)
 		(stroke
 			(width 0)
@@ -1419,7 +1419,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 147.32) (xy 66.04 147.32)
+			(xy 59.69 149.86) (xy 66.04 149.86)
 		)
 		(stroke
 			(width 0)
@@ -1449,7 +1449,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 77.47) (xy 66.04 76.2)
+			(xy 66.04 80.01) (xy 66.04 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1459,7 +1459,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 119.38) (xy 66.04 119.38)
+			(xy 59.69 121.92) (xy 66.04 121.92)
 		)
 		(stroke
 			(width 0)
@@ -1479,7 +1479,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 68.58) (xy 63.5 68.58)
+			(xy 59.69 63.5) (xy 63.5 63.5)
 		)
 		(stroke
 			(width 0)
@@ -1489,7 +1489,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 63.5) (xy 66.04 62.23)
+			(xy 66.04 66.04) (xy 66.04 64.77)
 		)
 		(stroke
 			(width 0)
@@ -1499,7 +1499,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 138.43) (xy 63.5 138.43)
+			(xy 59.69 133.35) (xy 63.5 133.35)
 		)
 		(stroke
 			(width 0)
@@ -1509,7 +1509,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 91.44) (xy 66.04 91.44)
+			(xy 59.69 93.98) (xy 66.04 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1519,7 +1519,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 54.61) (xy 63.5 54.61)
+			(xy 59.69 49.53) (xy 63.5 49.53)
 		)
 		(stroke
 			(width 0)
@@ -1529,7 +1529,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 152.4) (xy 63.5 152.4)
+			(xy 59.69 147.32) (xy 63.5 147.32)
 		)
 		(stroke
 			(width 0)
@@ -1539,7 +1539,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 77.47) (xy 66.04 77.47)
+			(xy 59.69 80.01) (xy 66.04 80.01)
 		)
 		(stroke
 			(width 0)
@@ -1569,7 +1569,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 82.55) (xy 63.5 82.55)
+			(xy 59.69 77.47) (xy 63.5 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1579,7 +1579,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 119.38) (xy 66.04 118.11)
+			(xy 66.04 121.92) (xy 66.04 120.65)
 		)
 		(stroke
 			(width 0)
@@ -1599,7 +1599,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 96.52) (xy 63.5 96.52)
+			(xy 59.69 91.44) (xy 63.5 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1609,7 +1609,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 147.32) (xy 66.04 146.05)
+			(xy 66.04 149.86) (xy 66.04 148.59)
 		)
 		(stroke
 			(width 0)
@@ -1629,7 +1629,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 124.46) (xy 63.5 124.46)
+			(xy 59.69 119.38) (xy 63.5 119.38)
 		)
 		(stroke
 			(width 0)
@@ -1659,7 +1659,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 110.49) (xy 63.5 110.49)
+			(xy 59.69 105.41) (xy 63.5 105.41)
 		)
 		(stroke
 			(width 0)
@@ -1679,7 +1679,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 49.53) (xy 66.04 49.53)
+			(xy 59.69 52.07) (xy 66.04 52.07)
 		)
 		(stroke
 			(width 0)
@@ -1689,7 +1689,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 133.35) (xy 66.04 133.35)
+			(xy 59.69 135.89) (xy 66.04 135.89)
 		)
 		(stroke
 			(width 0)
@@ -1699,7 +1699,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 105.41) (xy 66.04 105.41)
+			(xy 59.69 107.95) (xy 66.04 107.95)
 		)
 		(stroke
 			(width 0)
@@ -1709,7 +1709,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 49.53) (xy 66.04 48.26)
+			(xy 66.04 52.07) (xy 66.04 50.8)
 		)
 		(stroke
 			(width 0)
@@ -1719,7 +1719,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 63.5) (xy 66.04 63.5)
+			(xy 59.69 66.04) (xy 66.04 66.04)
 		)
 		(stroke
 			(width 0)
@@ -1729,7 +1729,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 133.35) (xy 66.04 132.08)
+			(xy 66.04 135.89) (xy 66.04 134.62)
 		)
 		(stroke
 			(width 0)
@@ -1738,7 +1738,7 @@
 		(uuid "feb0f47b-892b-4fbb-b116-1b7256f679d4")
 	)
 	(label "Servo6"
-		(at 59.69 121.92 0)
+		(at 59.69 124.46 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1758,7 +1758,7 @@
 		(uuid "17c99a03-e514-46de-9d00-f9ad329def94")
 	)
 	(label "Servo4"
-		(at 59.69 93.98 0)
+		(at 59.69 96.52 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1798,7 +1798,7 @@
 		(uuid "3be7bbf8-c09d-4427-a793-134618abb5d5")
 	)
 	(label "Servo2"
-		(at 59.69 66.04 0)
+		(at 59.69 68.58 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1808,7 +1808,7 @@
 		(uuid "46623cd8-775e-46d2-b8f6-b801cbbaf4dc")
 	)
 	(label "Servo5"
-		(at 59.69 107.95 0)
+		(at 59.69 110.49 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1838,7 +1838,7 @@
 		(uuid "64742171-48bc-4c2e-8caf-7900479be1cd")
 	)
 	(label "Servo8"
-		(at 59.69 149.86 0)
+		(at 59.69 152.4 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1878,7 +1878,7 @@
 		(uuid "72537ff8-40c8-4f18-9b08-deadb8d4396d")
 	)
 	(label "Servo3"
-		(at 59.69 80.01 0)
+		(at 59.69 82.55 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1888,7 +1888,7 @@
 		(uuid "74097aea-65ff-46c6-9781-36d6cf514eba")
 	)
 	(label "Servo7"
-		(at 59.69 135.89 0)
+		(at 59.69 138.43 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1918,7 +1918,7 @@
 		(uuid "bf2e77d0-8a53-4833-b1ec-484b731fcb74")
 	)
 	(label "Servo1"
-		(at 59.69 52.07 0)
+		(at 59.69 54.61 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2006,7 +2006,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 66.04 48.26 0)
+		(at 66.04 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2015,7 +2015,7 @@
 		(fields_autoplaced yes)
 		(uuid "039e998e-ea25-40da-ad96-5b582d86e937")
 		(property "Reference" "#PWR09"
-			(at 66.04 52.07 0)
+			(at 66.04 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2024,7 +2024,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 66.04 43.18 0)
+			(at 66.04 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2032,7 +2032,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 66.04 48.26 0)
+			(at 66.04 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2041,7 +2041,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 48.26 0)
+			(at 66.04 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2050,7 +2050,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 66.04 48.26 0)
+			(at 66.04 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2072,7 +2072,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 63.5 110.49 0)
+		(at 63.5 105.41 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2081,7 +2081,7 @@
 		(fields_autoplaced yes)
 		(uuid "0e58fe98-21a2-404e-aa59-53f765118295")
 		(property "Reference" "#PWR05"
-			(at 63.5 116.84 0)
+			(at 63.5 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2090,7 +2090,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 63.5 115.57 0)
+			(at 63.5 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2099,7 +2099,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 63.5 110.49 0)
+			(at 63.5 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2108,7 +2108,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 63.5 110.49 0)
+			(at 63.5 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2117,7 +2117,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 63.5 110.49 0)
+			(at 63.5 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2139,7 +2139,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 66.04 62.23 0)
+		(at 66.04 64.77 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2148,7 +2148,7 @@
 		(fields_autoplaced yes)
 		(uuid "148d73ed-4340-4acc-9b26-d61b2ab3b62c")
 		(property "Reference" "#PWR010"
-			(at 66.04 66.04 0)
+			(at 66.04 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2157,7 +2157,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 66.04 57.15 0)
+			(at 66.04 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2165,7 +2165,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 66.04 62.23 0)
+			(at 66.04 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2174,7 +2174,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 62.23 0)
+			(at 66.04 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2183,7 +2183,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 66.04 62.23 0)
+			(at 66.04 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2205,7 +2205,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 66.04 118.11 0)
+		(at 66.04 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2214,7 +2214,7 @@
 		(fields_autoplaced yes)
 		(uuid "1c7fa773-1912-401a-8abb-3fc476f253b7")
 		(property "Reference" "#PWR014"
-			(at 66.04 121.92 0)
+			(at 66.04 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2223,7 +2223,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 66.04 113.03 0)
+			(at 66.04 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2231,7 +2231,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 66.04 118.11 0)
+			(at 66.04 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2240,7 +2240,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 118.11 0)
+			(at 66.04 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2249,7 +2249,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 66.04 118.11 0)
+			(at 66.04 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2271,7 +2271,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 63.5 96.52 0)
+		(at 63.5 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2280,7 +2280,7 @@
 		(fields_autoplaced yes)
 		(uuid "1dd0518e-7500-4f8d-ad5b-d5c91a37835f")
 		(property "Reference" "#PWR04"
-			(at 63.5 102.87 0)
+			(at 63.5 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2289,7 +2289,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 63.5 101.6 0)
+			(at 63.5 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2298,7 +2298,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 63.5 96.52 0)
+			(at 63.5 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2307,7 +2307,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 63.5 96.52 0)
+			(at 63.5 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2316,7 +2316,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 63.5 96.52 0)
+			(at 63.5 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2338,7 +2338,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 66.04 76.2 0)
+		(at 66.04 78.74 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2347,7 +2347,7 @@
 		(fields_autoplaced yes)
 		(uuid "2125611b-a314-4139-9580-555789ddc3e5")
 		(property "Reference" "#PWR011"
-			(at 66.04 80.01 0)
+			(at 66.04 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2356,7 +2356,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 66.04 71.12 0)
+			(at 66.04 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2364,7 +2364,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 66.04 76.2 0)
+			(at 66.04 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2373,7 +2373,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 76.2 0)
+			(at 66.04 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2382,7 +2382,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 66.04 76.2 0)
+			(at 66.04 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2510,7 +2510,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 66.04 104.14 0)
+		(at 66.04 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2519,7 +2519,7 @@
 		(fields_autoplaced yes)
 		(uuid "2806a957-c26a-4116-b82e-d7f07ff0717d")
 		(property "Reference" "#PWR013"
-			(at 66.04 107.95 0)
+			(at 66.04 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2528,7 +2528,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 66.04 99.06 0)
+			(at 66.04 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2536,7 +2536,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 66.04 104.14 0)
+			(at 66.04 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2545,7 +2545,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 104.14 0)
+			(at 66.04 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2554,7 +2554,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 66.04 104.14 0)
+			(at 66.04 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3055,7 +3055,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 63.5 82.55 0)
+		(at 63.5 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3064,7 +3064,7 @@
 		(fields_autoplaced yes)
 		(uuid "4f859e1b-f52f-4799-a2ee-a565c30a1f07")
 		(property "Reference" "#PWR03"
-			(at 63.5 88.9 0)
+			(at 63.5 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3073,7 +3073,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 63.5 87.63 0)
+			(at 63.5 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3082,7 +3082,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 63.5 82.55 0)
+			(at 63.5 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3091,7 +3091,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 63.5 82.55 0)
+			(at 63.5 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3100,7 +3100,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 63.5 82.55 0)
+			(at 63.5 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3122,7 +3122,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 66.04 90.17 0)
+		(at 66.04 92.71 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3131,7 +3131,7 @@
 		(fields_autoplaced yes)
 		(uuid "51ec7655-1ec1-4e66-bece-565de52c52f5")
 		(property "Reference" "#PWR012"
-			(at 66.04 93.98 0)
+			(at 66.04 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3140,7 +3140,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 66.04 85.09 0)
+			(at 66.04 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3148,7 +3148,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 66.04 90.17 0)
+			(at 66.04 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3157,7 +3157,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 90.17 0)
+			(at 66.04 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3166,7 +3166,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 66.04 90.17 0)
+			(at 66.04 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3529,7 +3529,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 66.04 132.08 0)
+		(at 66.04 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3538,7 +3538,7 @@
 		(fields_autoplaced yes)
 		(uuid "861d7ccd-a79e-4e83-94ea-aacf0424105d")
 		(property "Reference" "#PWR015"
-			(at 66.04 135.89 0)
+			(at 66.04 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3547,7 +3547,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 66.04 127 0)
+			(at 66.04 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3555,7 +3555,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 66.04 132.08 0)
+			(at 66.04 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3564,7 +3564,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 132.08 0)
+			(at 66.04 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3573,7 +3573,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 66.04 132.08 0)
+			(at 66.04 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3665,7 +3665,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 63.5 54.61 0)
+		(at 63.5 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3674,7 +3674,7 @@
 		(fields_autoplaced yes)
 		(uuid "95c4d112-4263-4c75-a013-1d02d568312b")
 		(property "Reference" "#PWR01"
-			(at 63.5 60.96 0)
+			(at 63.5 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3683,7 +3683,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 63.5 59.69 0)
+			(at 63.5 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3692,7 +3692,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 63.5 54.61 0)
+			(at 63.5 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3701,7 +3701,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 63.5 54.61 0)
+			(at 63.5 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3710,7 +3710,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 63.5 54.61 0)
+			(at 63.5 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4015,7 +4015,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 63.5 68.58 0)
+		(at 63.5 63.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4024,7 +4024,7 @@
 		(fields_autoplaced yes)
 		(uuid "b16d525e-fe03-423d-bc60-79f0692b890a")
 		(property "Reference" "#PWR02"
-			(at 63.5 74.93 0)
+			(at 63.5 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4033,7 +4033,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 63.5 73.66 0)
+			(at 63.5 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4042,7 +4042,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 63.5 68.58 0)
+			(at 63.5 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4051,7 +4051,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 63.5 68.58 0)
+			(at 63.5 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4060,7 +4060,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 63.5 68.58 0)
+			(at 63.5 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4082,7 +4082,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 63.5 138.43 0)
+		(at 63.5 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4091,7 +4091,7 @@
 		(fields_autoplaced yes)
 		(uuid "b47f96b5-65c2-4a3e-8a18-6b2545ae3d17")
 		(property "Reference" "#PWR07"
-			(at 63.5 144.78 0)
+			(at 63.5 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4100,7 +4100,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 63.5 143.51 0)
+			(at 63.5 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4109,7 +4109,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 63.5 138.43 0)
+			(at 63.5 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4118,7 +4118,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 63.5 138.43 0)
+			(at 63.5 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4127,7 +4127,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 63.5 138.43 0)
+			(at 63.5 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4286,7 +4286,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 66.04 146.05 0)
+		(at 66.04 148.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4295,7 +4295,7 @@
 		(fields_autoplaced yes)
 		(uuid "bda895c2-6d64-4ec5-9f47-9b60e93cf3d0")
 		(property "Reference" "#PWR016"
-			(at 66.04 149.86 0)
+			(at 66.04 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4304,7 +4304,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 66.04 140.97 0)
+			(at 66.04 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4312,7 +4312,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 66.04 146.05 0)
+			(at 66.04 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4321,7 +4321,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 146.05 0)
+			(at 66.04 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4330,7 +4330,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 66.04 146.05 0)
+			(at 66.04 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4422,7 +4422,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 63.5 152.4 0)
+		(at 63.5 147.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4431,7 +4431,7 @@
 		(fields_autoplaced yes)
 		(uuid "ce0571c3-0754-45be-b640-4d1a557b1660")
 		(property "Reference" "#PWR08"
-			(at 63.5 158.75 0)
+			(at 63.5 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4440,7 +4440,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 63.5 157.48 0)
+			(at 63.5 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4449,7 +4449,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 63.5 152.4 0)
+			(at 63.5 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4458,7 +4458,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 63.5 152.4 0)
+			(at 63.5 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4467,7 +4467,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 63.5 152.4 0)
+			(at 63.5 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4692,7 +4692,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 63.5 124.46 0)
+		(at 63.5 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4701,7 +4701,7 @@
 		(fields_autoplaced yes)
 		(uuid "fb105bcd-9c7f-4edc-b55b-50529624febd")
 		(property "Reference" "#PWR06"
-			(at 63.5 130.81 0)
+			(at 63.5 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4710,7 +4710,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 63.5 129.54 0)
+			(at 63.5 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4719,7 +4719,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 63.5 124.46 0)
+			(at 63.5 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4728,7 +4728,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 63.5 124.46 0)
+			(at 63.5 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4737,7 +4737,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 63.5 124.46 0)
+			(at 63.5 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
