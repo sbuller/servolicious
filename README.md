@@ -15,3 +15,39 @@ y = round( x * (410-204) + 204 )
 Now y is the count for which each pulse should be held high.
 
 Phase isn't likely to be important. Set LEDn_ON to 0. Set LEDn_OFF to y.
+
+
+If necessary, the resolution of the PWM can be improved. By scaling the clock
+and adjusting the PWM for each segment, finer control may be managed.
+
+```
+Segments: 10
+Clock: 500Hz
+Segment 1: 2048-4096
+Segment 2-10: off
+```
+
+```
+Segments: 4
+Clock: 200Hz
+Segment 1: 819-1639
+Segments 2-4: off
+```
+
+```
+Segments: 5
+Clock: 250Hz
+Segment 1: 1024-2048
+Segments 2-5: off
+```
+
+```
+Segments: 20
+Clock: 1000Hz
+Segment 1: on
+Segment 2: 0-4096
+Segments 3-20: off
+```
+
+If not controlling /OE and CLK from the uC, pull low. R1 and R2 are
+provided for this purpose.
